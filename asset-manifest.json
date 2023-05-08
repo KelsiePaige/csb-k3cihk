@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://kelsiepaige.github.io/csb-k3cihk/static/css/main.97ac4656.css",
+    "main.js": "https://kelsiepaige.github.io/csb-k3cihk/static/js/main.6153cc62.js",
+    "index.html": "https://kelsiepaige.github.io/csb-k3cihk/index.html",
+    "main.97ac4656.css.map": "https://kelsiepaige.github.io/csb-k3cihk/static/css/main.97ac4656.css.map",
+    "main.6153cc62.js.map": "https://kelsiepaige.github.io/csb-k3cihk/static/js/main.6153cc62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ac4656.css",
+    "static/js/main.6153cc62.js"
+  ]
+}
